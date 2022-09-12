@@ -1,1 +1,1 @@
-A script that compiles a C file and creates an executable
+A C program that prints a sentence exactly 
