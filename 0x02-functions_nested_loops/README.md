@@ -1,1 +1,1 @@
-a program that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59
+a program that adds two integers and returns the result
