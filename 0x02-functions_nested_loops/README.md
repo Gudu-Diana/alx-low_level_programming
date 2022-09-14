@@ -1,1 +1,1 @@
-a program that adds two integers and returns the result
+a program that prints all natural numbers from n to 98, followed by a new line
