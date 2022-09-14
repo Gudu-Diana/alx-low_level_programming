@@ -1,1 +1,1 @@
-a program that computes the absolute value of an integer.
+a program that prints the last digit of a number.
