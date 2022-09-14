@@ -1,1 +1,1 @@
-a program that prints 10 times the alphabet, in lowercase
+a program that checks for lowercase character
