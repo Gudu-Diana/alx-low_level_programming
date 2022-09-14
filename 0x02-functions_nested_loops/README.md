@@ -1,1 +1,1 @@
-a program that checks for alphabetic character.
+a program that prints the sign of a number.
