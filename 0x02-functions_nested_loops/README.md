@@ -1,1 +1,1 @@
-a program that checks for lowercase character
+a program that checks for alphabetic character.
